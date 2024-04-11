@@ -1,5 +1,7 @@
 # Hello World
 
+A silly lil hello world app using React, TypeScript, and Vite
+
 ## React + TypeScript + Vite Template
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
